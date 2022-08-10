@@ -1,7 +1,7 @@
 # swiftUI-homework
 
 
-Homework 2 (homeworkSwiftU)
+Homework 2 (homeworkSwiftUI)
 
 <img width="221" alt="Screenshot 2022-08-10 at 14 16 01" src="https://user-images.githubusercontent.com/98461511/183888308-7a0db62a-a66a-40e2-8c90-20efa147e2f6.png">
 <img width="443" alt="Screenshot 2022-08-10 at 14 15 43" src="https://user-images.githubusercontent.com/98461511/183888314-dd1f105d-e5d4-4b91-8ac0-34886f4c3ce8.png">
