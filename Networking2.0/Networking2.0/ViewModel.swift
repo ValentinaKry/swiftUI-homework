@@ -1,12 +1,6 @@
 import Foundation
 import SwiftUI
 
-struct Card: Codable, Identifiable {
-    let id = UUID()
-    let name: String
-    let username: String
-}
-
 class Api {
     func getPost (completion: @escaping ([Card]) -> ()) {
         guard let url = URL(string: "https://jsonplaceholder.typicode.com/users") else { return }
