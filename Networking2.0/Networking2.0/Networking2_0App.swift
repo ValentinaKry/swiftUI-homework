@@ -1,9 +1,3 @@
-//
-//  Networking2_0App.swift
-//  Networking2.0
-//
-//  Created by Valentina Krysak on 13.08.22.
-//
 
 import SwiftUI
 
